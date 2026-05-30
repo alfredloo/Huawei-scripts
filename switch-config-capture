@@ -1,0 +1,22 @@
+sc 0 t
+display current-configuration
+display esn
+display mac-address
+display vlan 
+display interface
+display interface brief
+display arp all
+display lldp neighbor
+display stp
+display stp brief
+display ip routing-table
+display alarm active
+display device 
+display health 
+display version
+display patch-information
+display access-user 
+display radius-server template configuration
+display stack configuration 
+display stack topology
+display access-user
