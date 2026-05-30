@@ -1,0 +1,21 @@
+sc 0 t
+display current-configuration
+display ap all 
+display version 
+display patch-information
+display ntp session
+display ntp status
+display alarm active 
+display vrrp brief
+display interface brief
+display dns server 
+display dns configuration 
+display license 
+display license resource usage
+display cloud license
+display cloud-mng info
+display station all
+display access-user
+display ac protect
+display hsb group
+display hsb-service
